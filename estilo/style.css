@@ -56,7 +56,7 @@ section>p{
     padding: 4em;
 }
 section.normal{
-    background-color: white;
+    background-color:rgb(241, 243, 216);
 
 }
 
@@ -75,7 +75,7 @@ section.imagem > p {
 
 }
 section#img01{
-    background-image: url(../imagens/background001.jpg);
+    background-image: url(../imagens/florcoração.jpg);
     background-position: right center;
    
 
